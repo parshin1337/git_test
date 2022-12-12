@@ -15,6 +15,7 @@ class Rectangle:
     def set_height(self, a):
         self._a = a
 
+
     def set_width(self, b):
         self._b = b
 
